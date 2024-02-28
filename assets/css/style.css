@@ -9,6 +9,21 @@ html{
     padding: 0;
 }
 
+btn-form{
+    margin: 3rem 0;
+    padding: 1.5rem 4rem;
+}
+
+a{ 
+    text-decoration: none;
+}
+
+a:hover{
+    color: #fff;
+
+
+}
+
 body{
 
     background-color: #FFE6D4;
