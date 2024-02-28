@@ -24,17 +24,22 @@ body{
 
 a{ 
     text-decoration: none;
-    border: none;
 }
 
 a:hover{
     color: #fff;
-
-
 }
 
 span{ 
     font-family: 'montserrat', sans-serif;
+}
+
+.back{ 
+    text-decoration: underline;
+}
+
+.back:hover{ 
+    color: #000;
 }
 
 .main{ 
