@@ -354,8 +354,8 @@ input:focus {
         width: 100%;
         border-radius: 0;
     }
-
-    .card-main{ 
-      
-    }
+.left-side{ 
+    width: 100%;
+    margin-bottom: 4rem;
+}
 } 
