@@ -18,8 +18,13 @@ body{
 }
 
 .btn-form{
-    margin: 3rem 0;
     padding: 1.5rem 4rem;
+    display: table;
+}
+
+.form-text{ 
+    margin-top: 1rem;
+    max-width: 60%;
 }
 
 a{ 
