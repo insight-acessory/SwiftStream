@@ -244,13 +244,13 @@ width: 90%;
     margin-top: 2rem;
     margin-bottom: 5px;
     cursor: pointer;
-    font-size: 22px;
+    font-size: 20px;
 }
 .answer {
     font-weight: 500;
     display: none;
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .form-control-form{ 
